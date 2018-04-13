@@ -1,0 +1,50 @@
+[
+{
+"id":1,
+"titimg":"../assets/images/list_house01.jpg",
+"title":"领秀慧谷D区",
+"posit":"【昌平】京藏高速北安河出口北300米",
+"price":"17000 元/平",
+"aream":"4居/3居 - 建面 129~226m²"
+},
+{
+"id":2,
+"titimg":"../assets/images/list_house02.jpg",
+"title":"领秀慧谷D区1",
+"posit":"【昌平】京藏高速北安河出口北300米",
+"price":"27000 元/平",
+"aream":"4居/3居 - 建面 129~226m²"
+},
+{
+"id":3,
+"titimg":"../assets/images/list_house03.jpg",
+"title":"领秀慧谷D区2",
+"posit":"【昌平】京藏高速北安河出口北300米",
+"price":"37000 元/平",
+"aream":"4居/3居 - 建面 129~226m²"
+}
+,{
+"id":4,
+"titimg":"../assets/images/list_house03.jpg",
+"title":"领秀慧谷D区3",
+"posit":"【昌平】京藏高速北安河出口北300米",
+"price":"47000 元/平",
+"aream":"4居/3居 - 建面 129~226m²"
+}
+,{
+"id":5,
+"titimg":"../assets/images/list_house02.jpg",
+"title":"领秀慧谷D区4",
+"posit":"【昌平】京藏高速北安河出口北300米",
+"price":"57000 元/平",
+"aream":"4居/3居 - 建面 129~226m²"
+}
+,{
+"id":6,
+"titimg":"../assets/images/list_house01.jpg",
+"title":"领秀慧谷D区5",
+"posit":"【昌平】京藏高速北安河出口北300米",
+"price":"67000 元/平",
+"aream":"4居/3居 - 建面 129~226m²"
+}
+]
